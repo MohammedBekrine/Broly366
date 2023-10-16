@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Broly366
 - 👀 I’m interested in Programming, going to the gym and hiking
-- 🌱 I’m currently learning SQL, Javascript, nodejs
-- 💞️ I’m looking to collaborate on projects and to start a learning journey towards employment in programming field
+- 🌱 I’m currently following "The Odin Project".
+- 💞️ I’m looking to collaborate on projects and to start a learning journey towards employment in the programming field
 - 📫 You can email me at erbek00@outlook.it
 - im looking for new friends and mentors that can help me dive deeper in the programming world :) 
 <!---
